@@ -16,7 +16,6 @@ public class Ex1 {
 		System.out.println(sum);
 		System.out.println(avg);
 	}
-
 }
 /* 1. Ex1.java 문제
  * ()에 맞는 데이터 타입과 적절한 표현 쓰기
